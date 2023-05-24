@@ -1,16 +1,21 @@
-### Hi there 👋
+João Caetano is a research member holding an MSc. degree in Civil Engineering and is currently in the 2nd year of his PhD. in Civil Engineering at Instituto Superior Técnico (IST). He is doing research in Multiple criteria decision analysis applied to urban water systems since 2020. He has participated as a researcher in 1 national research project related to the digitalization of urban water infrastructures. He is a member of the IPS’ R&D Centre for Innovation in Science and Technology (INCITE) and his main research interests are in Multiple criteria decision analysis, Decision-making process, Infrastructure asset management, and Optimization. He has published 2 article in an international journal, and 8 national and international conference papers.
 
-<!--
-**jcaetanodev/jcaetanodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ##
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ##
+  
+  <div>
+    <a href = "mailto:jcaetanodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-           badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="[https://www.linkedin.com/in/jo%C3%A3o-caetano-72467ba7]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
+  
+  ##
